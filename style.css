@@ -1,0 +1,360 @@
+
+#elet{
+
+	/*position: absolute;
+	border-radius: 20px;
+	background-color: #DDE1E4;
+
+	
+	right:20%;
+	box-shadow: 20px;
+	top: 207px;*/
+
+	position: absolute;
+	left: 49.55%;
+	right: 12.08%;
+	top: 38.70%;
+	opacity: 60%;
+	/*bottom: 4.38pcx;*/
+	height: 620pX;
+	width:470px;
+	background: url(416983353_343300861802624_8514397458759096470_n (1).png);
+	filter: drop-shadow(6px 7px 5px rgba(0, 0, 0, 0.25));
+	border-radius: 30px;
+}
+	
+#fcolor{
+
+	size: 20px;
+}
+#body{
+}
+div.background{
+
+			position: absolute;
+			height: 930px;/*850*/
+			width: 1550px;/*1550*/
+			right: 0%;
+			top: 0%;
+			background-color: #938080;
+}
+div.box{
+
+		position: absolute;
+		height: 15px;/*850*/
+		width: 550px;/*1550*/
+		right: 13%;
+		top:127.3%;
+		background-color: #C6C6C7;
+}
+
+div.background1{
+
+	   		position: absolute;
+	  		background-color: #C6C6C7;
+	  	    border-radius: 10px;
+	  	    top: 2%;
+			right: 1.5%;
+			height: 895px;
+			width: 1305px;
+	
+}
+.middlecolor{
+			position: absolute;
+			background-color: #DDE1E4;
+			width: 1210px;
+			height: 820px;
+			left: 5%;
+			top: 65px;
+}
+.dot{
+	position: absolute;
+	height: 60px;
+ 	width: 60px;
+ 	left: 3%;
+ 	top: 3.99%;
+
+ 	background-color: white;
+  	border-radius: 50%;
+  
+
+}
+.dot2{
+	position: absolute;
+	height: 60px;
+ 	width: 60px;
+ 	left: 80%;
+ 	top: 3.50%;
+
+ 	background-color: white;
+  	border-radius: 50%;
+  
+
+}
+.dot3{
+	position: absolute;
+	height: 60px;
+ 	width: 60px;
+ 	left: 3%;
+ 	top: 90%;
+
+ 	background-color: white;
+  	border-radius: 50%;
+  
+
+}
+.bluecircle{
+	position: absolute;
+	height: 50px;
+ 	width: 50px;
+ 	left: 500px;
+ 	top: 75%;
+
+ 	background-color: #28B2FF;
+  	border-radius: 50%;
+}
+.browncircle{
+	position: absolute;
+	height: 30px;
+ 	width: 30px;
+ 	left: 1040px;
+ 	bottom: 20px;
+
+ 	background-color: #AD8383;
+  	border-radius: 50%;
+
+}
+.blue2{
+	position: absolute;
+	height: 35px;
+ 	width: 35px;
+ 	left: 1100px;
+ 	bottom: 60%;
+
+ 	background-color: #28B2FF;
+  	border-radius: 50%;
+
+}
+
+.green{
+	position: absolute;
+	border-radius: 50%;
+  	border: 5px solid #3DFED0;
+  	padding: 30px;
+  	top: 20%;
+  	right: 30%; 
+ 	width: 20px;
+  	height: 20px; 
+}
+.red{
+	position: absolute;
+	border-radius: 50%;
+  	border: 5px solid #EB4A4A;
+  	padding: 20px;
+  	top: 20%;
+  	right: 28%; 
+ 	width: 2px;
+  	height: 2px; 
+}
+.pink{
+	position: absolute;
+	height: 35px;
+ 	width: 35px;
+ 	left: 30%;
+ 	bottom: 80%;
+
+ 	background-color: #FF289C;
+  	border-radius: 50%;
+}
+.purpleB{
+	position: absolute;
+	height: 30px;
+ 	width: 30px;
+ 	left: 10%;
+ 	bottom: 50%;
+
+ 	background-color: #B75FC0;
+  	border-radius: 50%;
+
+}
+.purpleG{
+
+	position: absolute;
+	height: 30px;
+ 	width: 30px;
+ 	left: 88%;
+ 	top: 790px;
+
+ 	background-color: #B75FC0;
+  	border-radius: 50%;
+
+}
+.insta{
+    position: absolute;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    left: 100px;
+    top: 700px;
+ }
+ .gmail{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 739px;
+    left: 100px;
+    
+ }
+ .fb{
+    position: absolute;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    left: 100px;
+    top: 779px;
+ }
+ .phone{
+    position: absolute;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    top: 820px;
+    left: 100px;
+ }
+ .quimson{
+ 	position: absolute;
+ 	font-size: 95%;
+ 	left: 20px;
+ }
+ .facebook{
+ 	position: absolute;
+ 	font-size: 80%;
+ 	left: 150px;
+ 	top: 3px;
+ }
+ .instaAcc{
+ 	position: absolute;
+ 	font-size: 120%;
+ 	left: 75px;
+ 	top: 622px;
+
+ }
+ .gmailAcc{
+ 	position: absolute;
+ 	font-size: 120%;
+ 	left: 75px;
+ 	top: 662px;
+
+
+ }
+ .facebookAcc{
+ 	position: absolute;
+ 	font-size: 120%;
+ 	left: 75px;
+ 	top: 702px;
+
+ }
+ .number{
+ 	position: absolute;
+ 	font-size: 120%;
+ 	left: 75px;
+ 	top: 743px;
+
+
+ }
+ .hi{
+ 	position: absolute;
+ 	font-size: 300%;
+ 	font-weight: Bold;
+ 	left: 50px;
+ 	top: 30px;
+
+ }
+ .im{
+ 	position: absolute;
+ 	font-weight: bold;
+ 	font-size: 300%;
+ 	color: black;
+ 	left: 50px;
+ 	top: 80px;
+
+ }
+ #name{
+
+ 	font-weight: bold;
+ 	color: #E72F2F;
+ 	
+ }
+ .course{
+ 		position: absolute;
+ 		font-family: arial;
+ 	    font-size: 280%;
+ 		color: black;
+ 		left: 190px;
+ 		top: 125px;
+
+ }
+ .button1{
+  		position: relative;
+  		width: 130px;
+  		height: 20px;
+  		background-color: #EB4A4A;
+  		border: none;
+  		top: 360px;
+  		left: 100px;
+  		color: white;
+  		font-weight: bold;
+  		font-size: 15px;
+ }
+ .button2{
+ 		position: absolute;
+ 	 	width: 200px;
+  		height: 20px;
+ 		background-color: #EB4A4A;
+  		border: none;
+ 		top: 470px;
+ 		left: 108px;
+  		color: white;
+  		font-weight: bold;
+ 		font-size: 15px;
+
+ }
+ .button3{
+ 		position: absolute;
+ 	 	width: 120px;
+  		height: 20px;
+ 		background-color: #EB4A4A;
+  		border: none;
+ 		top: 570px;
+ 		left: 108px;
+  		color: white;
+  		font-weight: bold;
+ 		font-size: 15px;
+
+
+ }
+ .button4{
+ 		position: absolute;
+ 	 	width: 110px;
+  		height: 20px;
+ 		background-color: #EB4A4A;
+  		border: none;
+ 		top: 660px;
+ 		left: 108px;
+  		color: white;
+  		font-weight: bold;
+ 		font-size: 15px;
+
+}
+.button5{
+ 		position: absolute;
+ 	 	width: 100px;
+  		height: 20px;
+ 		background-color: #EB4A4A;
+  		border: none;
+ 		top: 500px;
+ 		left: 1120px;
+  		color: white;
+  		font-weight: bold;
+ 		font-size: 15px;
+}
